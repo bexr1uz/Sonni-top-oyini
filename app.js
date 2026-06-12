@@ -19,3 +19,7 @@
 
       robot.textContent = "Robot soni: " + robotSon;
     }
+
+    function Yana(){
+        location.reload();
+    }
